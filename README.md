@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://muthuram05.github.io/Animated-Profile/](https://muthuram05.github.io/Animated-Profile/)
+- 👨‍💻 All of my projects are available at [https://muthuram.site](https://muthuram.site)
 
 - 💬 Ask me about **Python**
 
